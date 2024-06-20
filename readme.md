@@ -97,4 +97,3 @@ Any support is highly appreciated
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/greeenos/fetch-all-crypto-history-data-by-exchange-and-ticker/blob/main/LICENSE) file for details.
-```
