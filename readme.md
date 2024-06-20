@@ -88,10 +88,11 @@ The fetched data will be stored in the specified directory in the configuration 
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure your code follows the project's style guidelines and includes appropriate tests.
 
 ## Support
-Any support is highly appreciated https://buymeacoffee.com/greeenos
-Solana: ETTSLqMB4FAFLUM5k1ieYDD3W1CdkiiFCT2oW7yP5YXs
-BTC (segwit): bc1q28e85w6m47hk5fux3y2nkzgpr2v4t3fukgp53l
-Polygon: 0x530f7b2219Bb58cfDf328F17F4CD0417f9cD0117
+Any support is highly appreciated 
+- https://buymeacoffee.com/greeenos
+- Solana: ETTSLqMB4FAFLUM5k1ieYDD3W1CdkiiFCT2oW7yP5YXs
+- BTC (segwit): bc1q28e85w6m47hk5fux3y2nkzgpr2v4t3fukgp53l
+- Polygon: 0x530f7b2219Bb58cfDf328F17F4CD0417f9cD0117
 
 ## License
 
